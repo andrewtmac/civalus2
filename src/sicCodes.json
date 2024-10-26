@@ -1,0 +1,7 @@
+[
+      { "code": "0111", "description": "Wheat" },
+      { "code": "0112", "description": "Rice" },
+      { "code": "0115", "description": "Corn" },
+      { "code": "0116", "description": "Soybeans" },
+      { "code": "0119", "description": "Cash Grains, NEC" }
+    ]
